@@ -1,2 +1,3 @@
-# pecujidoma-web
-Projekt DA WEB CB 
+# Pečuji doma
+
+Projekt do Czechitas webové akademie.
